@@ -93,16 +93,6 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <div style="flex: 0 0 180px; padding-right: 20px;">
-    <img src="../images/framework.png" width="160" alt="TrustRAG Framework"/>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG: A RAG Framework for Reliable and Trusted Output</strong></a><br>
-    TrustRAG is a configurable and modular Retrieval-Augmented Generation (RAG) framework designed to ensure reliable input and trusted output, so that users can obtain high-quality and trustworthy results in retrieval-based question-answering scenarios.
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
-  <div style="flex: 0 0 180px; padding-right: 20px;">
     <img src="../images/scoomatic.png" width="160" alt="Schoomatic Simulator"/>
   </div>
   <div style="flex: 1;">
