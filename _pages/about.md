@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently a first-year PhD student at the University of Colorado Boulder, advised by [Prof. Nikolaus Correll](https://www.colorado.edu/cs/nikolaus-correll) and [Prof. Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone).
 
-My research focuses on building intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
+My research goal is to build intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
 1) **Agent Learning:** Improving the generalization and sample efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation.
-2) **Foundational Models:** Scaling the inference of pre-trained models (e.g., Large Language and Vision-Language Models) to serve as the knowledge backbone for these agents.
+2) **Foundational Models:** Scaling the inference of pre-trained models (e.g., Large Language Models or Vision-Language-Action Models) to serve as the knowledge backbone for these agents.
 
 Previously, I worked for 2 years as a Research Engineer at the Chinese Academy of Sciences, supervised by [Prof. Jiafeng Guo](https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en). I earned my M.S. in Computer Science from the University of Southern California, where I was advised by [Prof. Laurent Itti](http.ilab.usc.edu/itti/).
 
@@ -26,11 +26,11 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <img src="../images/carlagstview.png" width="160" alt="Bird's Eye View Navigation"/>
   </div>
   <div style="flex: 1;">
-    <a href="https://arxiv.org/abs/2310.18847"><strong>Bird’s Eye View Based Pretrained World model for Visual Navigation</strong></a><br>
+    <a href="https://arxiv.org/abs/2310.18847"><strong>Bird’s Eye View Based Pretrained World Model for Visual Navigation</strong></a><br>
     Kiran Lekkala*, <strong>Chen Liu*</strong>, Laurent Itti<br>
     <em>International Symposium on Robotics Research (ISRR), 2024.</em><br>
     <em>Also presented at the NeurIPS 2023 Robot Learning Workshop.</em><br>
-    We propose a robust system that integrates the control policy with a pretrained visual perception model and an LSTM-based world model, facilitating seamless application in real-world scenarios.
+    We propose a robust system that integrates the control policy with a pretrained visual perception model and an LSTM-based world model, facilitating seamless application of the policy in real-world scenarios.
   </div>
 </div>
 
@@ -43,7 +43,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     Kiran Lekkala*, Henghui Bao*, Piexu Cai, Kevin Lim, <strong>Chen Liu</strong>, Laurent Itti<br>
     <em>Neural Information Processing Systems (NeurIPS), 2024.</em><br>
     <em>Accepted into the Open X-Embodiment Collaboration.</em><br>
-    We propose a novel pipeline that uses foundational models to annotate 3D pointclouds. We also release a large-scale 3D dataset, collected over a year in a campus environment.
+    We propose a novel pipeline that uses foundational models to annotate 3D pointclouds. We also release a large-scale 3D dataset, consisting of images and pointclouds, that is collected over a year in a campus-scale environment.
   </div>
 </div>
 
@@ -67,7 +67,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
   </div>
   <div style="flex: 1;">
     <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG: A RAG Framework for Reliable and Trusted Output</strong></a><br>
-    TrustRAG is a configurable and modular Retrieval-Augmented Generation (RAG) framework designed to ensure users obtain high-quality and trustworthy results in retrieval-based QA scenarios.
+    TrustRAG is a configurable and modular Retrieval-Augmented Generation (RAG) framework designed to ensure reliable input and trusted output, so that users can obtain high-quality and trustworthy results in retrieval-based question-answering scenarios.
   </div>
 </div>
 
