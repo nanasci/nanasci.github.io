@@ -59,6 +59,36 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
   </div>
 </div>
 
+## Experience
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px; padding-right: 20px;">
+    <img src="../images/framework.png" width="160" alt="TrustRAG Framework"/>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG Project - Chinese Academy of Sciences</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/gomate-community/TrustRAG?style=social" alt="GitHub Stars"><br>
+    <em>Research Engineer (2023 - 2025)</em>
+    <ul margin-top: 8px;">
+    Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs, providing high-quality results for QA tasks.
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px; padding-right: 20px;">
+    <img src="../images/logo.png" width="160" alt="XIR Logo"/>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://gomall.xir.cn/#/home/project"><strong>XIR Project - Chinese Academy of Sciences</strong></a><br>
+    <em>Research Engineer (2023 - 2025)</em>
+    <ul style="padding-left: 20px; margin-top: 8px;">
+      <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
+      <li>Engineered a high-throughput, auto-scaling model deployment system using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
+      <li>Developed and integrated two advanced model training frameworks into the platform: A distributed training system leveraging DeepSpeed to efficiently train models with billions of parameters (e.g., 671B DeepSeek R1) across multiple GPU nodes; A versatile, multi-modal fine-tuning system based on LlamaFactory, empowering researchers to develop and experiment with vision-language models.</li>
+    </ul>
+  </div>
+</div>
+
 ## Selected Projects
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
@@ -108,36 +138,6 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
   <div style="flex: 1;">
     <a href="https://github.com/crellian/CVLab"><strong>CVLab</strong></a><br>
     A computer vision library built from scratch, including a template Matrix class with reference counting, matrix operations, various image filters (linear, nonlinear, morphological, Gabor), image pyramids, and more.
-  </div>
-</div>
-
-## Experience
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
-  <div style="flex: 0 0 180px; padding-right: 20px;">
-    <img src="../images/framework.png" width="160" alt="TrustRAG Framework"/>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG Project - Chinese Academy of Sciences</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/gomate-community/TrustRAG?style=social" alt="GitHub Stars"><br>
-    <em>Research Engineer (2023 - 2025)</em>
-    <ul margin-top: 8px;">
-    Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs, providing high-quality results for QA tasks.
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
-  <div style="flex: 0 0 180px; padding-right: 20px;">
-    <img src="../images/logo.png" width="160" alt="XIR Logo"/>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://gomall.xir.cn/#/home/project"><strong>XIR Project - Chinese Academy of Sciences</strong></a><br>
-    <em>Research Engineer (2023 - 2025)</em>
-    <ul style="padding-left: 20px; margin-top: 8px;">
-      <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
-      <li>Engineered a high-throughput, auto-scaling model deployment system using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
-      <li>Developed and integrated two advanced model training frameworks into the platform: A distributed training system leveraging DeepSpeed to efficiently train models with billions of parameters (e.g., 671B DeepSeek R1) across multiple GPU nodes; A versatile, multi-modal fine-tuning system based on LlamaFactory, empowering researchers to develop and experiment with vision-language models.</li>
-    </ul>
   </div>
 </div>
 
