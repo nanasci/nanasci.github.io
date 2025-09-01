@@ -120,9 +120,9 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
       <a href="https://gomall.xir.cn/#/home/project"><strong>XIR - Chinese Academy of Sciences</strong></a><br>
       <em>Research Engineer (2023 - 2025)</em>
       <ul>
-        <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle.</li>
-        <li>Engineered an auto-scaling, Kubernetes-based inference system using vLLM and Ray for high-availability and low-latency deployment of production models.</li>
-        <li>Developed a robust, distributed training platform using DeepSpeed for massive-scale models and deployed a LlamaFactory-based system for user-friendly multi-modal fine-tuning.</li>
+        <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
+        <li>Engineered a high-throughput, auto-scaling model deployment system using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
+        <li>Developed and integrated two advanced model training frameworks into the platform: A distributed training system leveraging DeepSpeed to efficiently train models with billions of parameters (e.g., 671B DeepSeek R1) across multiple GPU nodes; A versatile, multi-modal fine-tuning system based on LlamaFactory, empowering researchers to develop and experiment with vision-language models.</li>
       </ul>
     </td>
   </tr>
