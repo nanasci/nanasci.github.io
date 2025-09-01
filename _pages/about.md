@@ -1,56 +1,110 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chen's Place"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a first-year PhD student at the University of Colorado Boulder, advised by <a href="https://www.colorado.edu/cs/nikolaus-correll" style="text-decoration:none">Prof. Nikolaus Correll</a> and <a href="https://www.colorado.edu/cs/alessandro-roncone" style="text-decoration:none">Prof. Alessandro Roncone</a>.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research goal is to build intelligent agents that can efficiently learn to understand our world and interact with humans. 
+To this end, my work bridges two critical areas: 1) *Agent Learning*: Improving the generalization and sample-efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation. 2) *Foundational Models*: Scaling the inference of pre-trained models (e.g., large language model or vision language action model) that can serve as the knowledge backbone for these agents.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Previously, I worked 2 years as a Research Engineer at Chinese Academy of Sciences, supervised by <a href="https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en" style="text-decoration:none">Prof. Jiafeng Guo</a>. I earned my M.S. in Computer Science from the University of Southern California, where I was advised by <a href="http://ilab.usc.edu/itti/" style="text-decoration:none">Prof. Laurent Itti</a>.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-decoration:none">Chen's Curriculum Vitae</a>.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Research
+========
+<img  style="margin-top:4em;" align="left" src="../images/carlagstview.png" width="160" height="160"/> 
+<td>
+    <a href="https://arxiv.org/abs/2310.18847"><p style="margin-left:10em;">
+        Bird’s Eye View Based Pretrained World model for Visual Navigation  <br></a>
+    Kiran Lekkala*, <strong>Chen Liu*</strong>, Laurent Itti <br>
+    <em> Published at International Symposium on Robotics Research (ISRR), December, 2024; Also presented at NeurIPS 2023 Robot Learning Workshop. </em> <br>
+    We propose a robust system that integrates the control policy with pretrained visual perception model and LSTM-based robustness-enhanced world model, facilitating seamless application of the policy in real-world scenarios.</p>
+</td>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<img  style="margin-top:4em;" align="left" src="../images/uscilab3d.gif" width="160" height="160"/> 
+<td>
+    <a href="https://klekkala.github.io/files/uscilab3d.pdf"> <p style="margin-left:10em;">
+        USCILab3D Dataset: A Large-scale, Long-term, Semantic, Outdoor 3D Dataset<br></a> 
+    Kiran Lekkala*, Henghui Bao*, Piexu Cai, Kevin Lim, <strong>Chen Liu</strong>, Laurent Itti <br>
+    <em> Published at Neural Information Processing Systems (NeurIPS), December, 2024; Accepted into the Open X-Embodiment Collaboration </em> <br>
+    We propose a novel pipeline that uses foundational models to annotate 3D pointclouds. We also release a 3D dataset, consisting of images and pointclouds, that is collected over the span of an year on a large campus-scale environment.</p>
+</td>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<img  style="margin-top:1em;" align="left" src="../images/chrome-capture-2023-9-20.gif" width="160" height="160"/> 
+<td>
+    <p style="margin-left:10em;">
+        Facilitating Diverse Manipulation with Vision-Language Model<br>
+    <em> preprint </em> <br>
+    <strong>Chen Liu</strong>, Sumedh Sontakke, Laurent Itti <br>
+    We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
+</td>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Selected Projects
+========
+<img  style="margin-top:1em;" align="left" src="../images/framework.png" width="160" height="160"/> 
+<td>
+  <p style="margin-left:10em;">
+    <a href="https://github.com/gomate-community/TrustRAG" style="text-decoration:none">
+        TrustRAG：The RAG Framework within Reliable input,Trusted output<br>
+    </a>
+    TrustRAG is a configurable and modular Retrieval-Augmented Generation (RAG) framework designed to provide reliable input and trusted output, ensuring users can obtain high-quality and trustworthy results in retrieval-based question-answering scenarios.</p>
+</td>
+<img  style="margin-top:1em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
+<td>
+  <p style="margin-left:10em;">
+    <a href="https://github.com/crellian/Schoomatic" style="text-decoration:none">
+        Schoomatic - A Differential-Drive Robot Simulator<br>
+    </a>
+    I develop a robot simulator built on CARLA and Unreal Engine 4, embracing features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a> reinforcement learning framework and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
+</td>
+<img  style="margin-top:0em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
+<td>
+  <p style="margin-left:10em;">
+    <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none">
+        Schoomatic Autopilot<br>
+    </a>
+    I implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
+</td>
+<img  style="margin-top:2em;" align="left" src="../images/multi-tasks.png" width="160" height="160"/> 
+<td>
+  <p style="margin-left:10em;">
+    <a href="../assets/weather.pdf" style="text-decoration:none">
+        Deep Learning-based Image Bad Weather Removal<br>
+    </a>
+    We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers. We Implement and compare CBMA, LeFF, Coordinate Attention and Global-Enhanced Transformer to
+adapt the model to heavy rain scenarios. We also design a cascaded model to improve the restoration performance</p>
+</td>
+<img  style="margin-top:0em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
+<td>
+  <p style="margin-left:10em;">
+    <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
+        CVLab<br>
+    </a>
+    I build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
+</td>
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Experience
+========
+<img  style="margin-top:0em;" align="left" src="../images/logo.png" width="160" height="160"/>
+<td>
+  <p style="margin-left:10em;">
+    <a href="https://gomall.xir.cn/#/home/project" style="text-decoration:none">
+        XIR <br>
+    </a>    
+   <strong>Research Engineer at Chinese Academy of Sciences, 2023 - 2025</strong><br>
+I co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production. For inference, I engineered an auto-scaling deployment system built on Kubernetes, integrating vLLM for optimized performance and Ray for distributed orchestration. This system ensured high availability and low-latency responses for production models. On the training side, I developed a robust, distributed training platform using DeepSpeed to handle massive-scale models, and also deployed a multi-modal training system using LlamaFactory, which enabled users to fine-tune models easily.</p>
+</td>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Invited Talks
+========
+University of Electronic Science and Technology of China (UESTC),<br>
+Shenzhen Technology University (SZTU),<br>
+University of Chinese Academy of Sciences (UCAS)
