@@ -120,9 +120,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
   <div style="flex: 1;">
     <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG Project - Chinese Academy of Sciences</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/gomate-community/TrustRAG?style=social" alt="GitHub Stars"><br>
     <em>Research Engineer (2023 - 2025)</em>
-    <ul style="padding-left: 20px; margin-top: 8px;">
-        Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs, providing high-quality results for QA tasks.
-    </ul>
+    Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs, providing high-quality results for QA tasks.
   </div>
 </div>
 
