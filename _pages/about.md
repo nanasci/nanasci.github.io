@@ -137,3 +137,6 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 * University of Electronic Science and Technology of China (UESTC)
 * Shenzhen Technology University (SZTU)
 * University of Chinese Academy of Sciences (UCAS)
+
+## Teaching Assistant
+CSCI3302 Introduction to Robotics at CU Boulder
