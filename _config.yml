@@ -21,7 +21,7 @@ repository               : "robotnana/robotnana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Chen Liu"
-  avatar           : "images/profile.png"
+  avatar           : "profile1.jpg"
   bio              : "University of Colorado Boulder"
   location         : "Boulder, CO"
   employer         :
