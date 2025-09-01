@@ -16,7 +16,7 @@ My research goal is to build intelligent agents that can efficiently learn to un
 
 Previously, I worked for 2 years as a Research Engineer at the Chinese Academy of Sciences, supervised by [Prof. Jiafeng Guo](https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en). I earned my M.S. in Computer Science from the University of Southern California, where I was advised by [Prof. Laurent Itti](http.ilab.usc.edu/itti/).
 
-You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf).
+You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf). <small><em>(Last updated: 2024)</em></small>
 
 ## Research
 *\* denotes equal contribution.*
@@ -120,7 +120,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
   <div style="flex: 1;">
     <a href="https://gomall.xir.cn/#/home/project"><strong>XIR - Chinese Academy of Sciences</strong></a><br>
     <em>Research Engineer (2023 - 2025)</em>
-    <ul>
+    <ul style="padding-left: 20px; margin-top: 8px;">
       <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
       <li>Engineered a high-throughput, auto-scaling model deployment system using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
       <li>Developed and integrated two advanced model training frameworks into the platform: A distributed training system leveraging DeepSpeed to efficiently train models with billions of parameters (e.g., 671B DeepSeek R1) across multiple GPU nodes; A versatile, multi-modal fine-tuning system based on LlamaFactory, empowering researchers to develop and experiment with vision-language models.</li>
