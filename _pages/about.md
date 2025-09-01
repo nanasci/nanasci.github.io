@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chen's Place"
+title: "Chen Liu - PhD Student"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at the University of Colorado Boulder, advised by [Prof. Nikolaus Correll](https://www.colorado.edu/cs/nikolaus-correll) and [Prof. Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone).
+I am currently a first-year PhD student at CU Boulder, advised by [Prof. Nikolaus Correll](https://www.colorado.edu/cs/nikolaus-correll) and [Prof. Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone).
 
 My research goal is to build intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
 1) **Agent Learning:** Improving the generalization and sample efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation.
