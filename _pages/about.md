@@ -66,8 +66,8 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <img src="../images/framework.png" width="160" alt="TrustRAG Framework"/>
   </div>
   <div style="flex: 1;">
-    <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG Project - Chinese Academy of Sciences</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/gomate-community/TrustRAG?style=social" alt="GitHub Stars"><br>
-    <em>Research Engineer (2023 - 2025)</em>
+    <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG Project</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/gomate-community/TrustRAG?style=social" alt="GitHub Stars"><br>
+    <em>Research Engineer at Chinese Academy of Science</em>
     <ul style="padding-left: 20px; margin-top: 8px;">
     Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs from LLMs, providing trustworthy results in retrieval-based QA tasks.
     </ul>
@@ -79,8 +79,8 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <img src="../images/logo.png" width="160" alt="XIR Logo"/>
   </div>
   <div style="flex: 1;">
-    <a href="https://gomall.xir.cn/#/home/project"><strong>XIR Project - Chinese Academy of Sciences</strong></a><br>
-    <em>Research Engineer (2023 - 2025)</em>
+    <a href="https://gomall.xir.cn/#/home/project"><strong>XIR.cn</strong></a><br>
+    <em>Research Engineer at Chinese Academy of Science</em>
     <ul style="padding-left: 20px; margin-top: 8px;">
       <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
       <li>Engineered a high-throughput, auto-scaling model deployment system using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
