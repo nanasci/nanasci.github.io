@@ -79,7 +79,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <img src="../images/logo.png" width="160" alt="XIR Logo"/>
   </div>
   <div style="flex: 1;">
-    <a href="https://gomall.xir.cn/#/home/project"><strong>XIR.cn</strong></a><br>
+    <a href="https://www.xir.cn/"><strong>XIR.cn</strong></a><br>
     <em>Research Engineer at Chinese Academy of Science</em>
     <ul style="padding-left: 20px; margin-top: 8px;">
       <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
