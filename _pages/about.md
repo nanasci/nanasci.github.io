@@ -96,7 +96,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <img src="../images/scoomatic.png" width="160" alt="Schoomatic Simulator"/>
   </div>
   <div style="flex: 1;">
-    <a href="https://github.com/crellian/Schoomatic"><strong>Schoomatic - A Differential-Drive Robot Simulator</strong></a><br>
+    <a href="https://www.youtube.com/watch?v=T2diQQQ4hgA"><strong>Schoomatic - A Differential-Drive Robot Simulator</strong></a><br>
     A robot simulator built on CARLA/Unreal Engine 4, featuring NPC traffic, variable weather, and global waypoint planning. Provides integration with the <a href="https://github.com/crellian/schoomatic_visnav">RLLib</a> reinforcement learning framework and <a href="https://github.com/klekkala/ros_prtr_visualnav">ROS</a>.
   </div>
 </div>
