@@ -135,7 +135,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 
 ## Invited Talks
 * University of Electronic Science and Technology of China (UESTC)
-* Shenzhen Technology University (SZTU)
+* Shenzhen University of Advanced Technology (SUAT)
 * University of Chinese Academy of Sciences (UCAS)
 
 ## Teaching Assistant
