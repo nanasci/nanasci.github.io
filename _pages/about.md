@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student at CU Boulder, advised by [Prof. Nikolaus Correll](https://www.colorado.edu/cs/nikolaus-correll) and [Prof. Alessandro Roncone](https://www.colorado.edu/cs/alessandro-roncone).
+I am currently a first-year PhD student at CU Boulder, advised by [Prof. Nikolaus Correll](https://www.colorado.edu/cs/nikolaus-correll).
 
 My research goal is to build intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
 1) **Agent Learning:** Improving the generalization and sample efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation.
@@ -69,7 +69,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <a href="https://github.com/gomate-community/TrustRAG"><strong>TrustRAG Project</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/gomate-community/TrustRAG?style=social" alt="GitHub Stars"><br>
     <em>Research Engineer at Chinese Academy of Science</em>
     <ul style="padding-left: 20px; margin-top: 8px;">
-    Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs from LLMs, providing trustworthy results in retrieval-based QA tasks.
+    Co-Led the design and development of TrustRAG, a configurable and modular Retrieval-Augmented Generation (RAG) framework. Engineered the system to ensure reliable inputs and trusted outputs from LLMs, providing trustworthy results in retrieval-based QA tasks.
     </ul>
   </div>
 </div>
@@ -82,8 +82,8 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
     <a href="https://www.xir.cn/"><strong>XIR.cn</strong></a><br>
     <em>Research Engineer at Chinese Academy of Science</em>
     <ul style="padding-left: 20px; margin-top: 8px;">
-      <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to production.</li>
-      <li>Engineered a high-throughput, auto-scaling model deployment system using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
+      <li>Co-led the architecture and development of a comprehensive LLMOps platform to streamline the end-to-end model lifecycle, from training to serving</li>
+      <li>Engineered a high-throughput, auto-scaling model deployment system on GPU clusters (A100, A800, V100, etc.) using vLLM, Ray Serve, and Kubernetes (K8S), enabling low-latency inference and efficient resource management under dynamic loads.</li>
       <li>Developed and integrated two advanced model training frameworks into the platform: A distributed training system leveraging DeepSpeed to efficiently train models with billions of parameters (e.g., 671B DeepSeek R1) across multiple GPU nodes; A versatile, multi-modal fine-tuning system based on LlamaFactory, empowering researchers to develop and experiment with vision-language models.</li>
     </ul>
   </div>
@@ -97,7 +97,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
   </div>
   <div style="flex: 1;">
     <a href="https://www.youtube.com/watch?v=T2diQQQ4hgA"><strong>Schoomatic - A Differential-Drive Robot Simulator</strong></a><br>
-    A robot simulator built on CARLA/Unreal Engine 4, featuring NPC traffic, variable weather, and global waypoint planning. Provides integration with the <a href="https://github.com/crellian/schoomatic_visnav">RLLib</a> reinforcement learning framework and <a href="https://github.com/klekkala/ros_prtr_visualnav">ROS</a>.
+    A robot simulator built on CARLA/Unreal Engine 4, featuring NPC traffic, variable weather, and global waypoint planning. Provides integration with the <a href="https://github.com/crellian/schoomatic_visnav">Ray RLLib</a> reinforcement learning framework and <a href="https://github.com/klekkala/ros_prtr_visualnav">ROS</a>.
   </div>
 </div>
 
