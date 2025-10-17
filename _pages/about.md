@@ -11,14 +11,14 @@ redirect_from:
 I am currently a first-year PhD student at CU Boulder, advised by [Prof. Nikolaus Correll](https://www.colorado.edu/cs/nikolaus-correll).
 
 My research goal is to build intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
-1) **Agent Learning:** Improving the generalization and sample efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation.
-2) **Foundational Models:** Scaling the inference of pre-trained models (e.g., Large Language Models or Vision-Language-Action Models) to serve as the knowledge backbone for these agents.
+1) **Foundational Models:** Scaling the inference of pre-trained models (e.g., Large Language Models or Vision-Language-Action Models) to serve as the knowledge backbone for these agents.
+2) **Agent Learning:** Improving the generalization and sample efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation.
 
 Previously, I worked for 2 years as a Research Engineer at the Chinese Academy of Sciences (CAS), supervised by [Prof. Jiafeng Guo](https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en). I earned my M.S. in Computer Science from the University of Southern California (USC), where I was advised by [Prof. Laurent Itti](http://ilab.usc.edu/itti/), and my Bachelor's in Computer Science from Central South University (CSU) and Western University (UWO) through a 2+2 dual degree program.
 
 You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf). <small><em>(Last updated: 2023)</em></small>
 
-## Research
+## Publications
 *\* denotes equal contribution.*
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
