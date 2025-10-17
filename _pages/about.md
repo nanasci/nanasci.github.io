@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Computer Science at CU Boulder. My research goal is to build intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
+I am a first-year Ph.D. student in Computer Science at CU Boulder. My current research goal is to build intelligent agents that can efficiently learn to understand and interact with our world. My work bridges two critical areas:
 1) **Foundational Models:** Scaling the inference of pre-trained models (e.g., Large Language Models or Vision-Language-Action Models) to serve as the knowledge backbone for these agents.
 2) **Agent Learning:** Improving the generalization and sample efficiency of reinforcement learning for robotic tasks like visual navigation and manipulation.
 
