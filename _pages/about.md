@@ -87,7 +87,7 @@ Previously, I worked for 2 years as a Research Engineer at the Institute of Comp
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <div style="flex: 0 0 180px; padding-right: 20px;">
-    <img src="../images/smartetl" width="160" alt="SmartETL"/>
+    <img src="../images/smartetl.png" width="160" alt="SmartETL"/>
   </div>
   <div style="flex: 1;">
     <a href="https://github.com/ictchenbo/SmartETL"><strong>SmartETL</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/ictchenbo/SmartETL?style=social" alt="GitHub Stars"><br>
