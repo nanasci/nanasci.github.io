@@ -85,6 +85,19 @@ Previously, I worked for 2 years as a Research Engineer at the Institute of Comp
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 180px; padding-right: 20px;">
+    <img src="../images/smartetl" width="160" alt="SmartETL"/>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/ictchenbo/SmartETL"><strong>SmartETL</strong></a>&nbsp;<img src="https://img.shields.io/github/stars/ictchenbo/SmartETL?style=social" alt="GitHub Stars"><br>
+    <em>Research Engineer at Chinese Academy of Science</em>
+    <ul style="padding-left: 20px; margin-top: 8px;">
+    Contributed to SmartETL, a flexible Python ETL framework for reading and preprocessing data from files, databases and LLMs. I focused on developing some data processing and database connection operators.
+    </ul>
+  </div>
+</div>
+
 ## Selected Projects
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
