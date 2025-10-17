@@ -16,8 +16,6 @@ My research goal is to build intelligent agents that can efficiently learn to un
 
 Previously, I worked for 2 years as a Research Engineer at the Chinese Academy of Sciences (CAS), supervised by [Prof. Jiafeng Guo](https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en). I earned my M.S. in Computer Science from the University of Southern California (USC), where I was advised by [Prof. Laurent Itti](http://ilab.usc.edu/itti/), and my Bachelor's in Computer Science from Central South University (CSU) and Western University (UWO) through a 2+2 dual degree program.
 
-You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf). <small><em>(Last updated: 2023)</em></small>
-
 ## Publications
 *\* denotes equal contribution.*
 
