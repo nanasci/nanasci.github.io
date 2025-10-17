@@ -57,7 +57,7 @@ Previously, I worked for 2 years as a Research Engineer at the Institute of Comp
   </div>
 </div>
 
-## Experience
+## Work Experience
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <div style="flex: 0 0 180px; padding-right: 20px;">
